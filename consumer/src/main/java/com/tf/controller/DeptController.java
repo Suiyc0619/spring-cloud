@@ -1,4 +1,4 @@
-package com.tf.config.controller;
+package com.tf.controller;
 
 import com.tf.entity.Dept;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,7 +12,7 @@ import java.util.List;
 @RestController
 public class DeptController {
 
-    private static final String REST_URL_PREFIX="http://localhost:8001";
+    private static final String REST_URL_PREFIX="http://DEPT-PROVIDER";
     @Autowired
     RestTemplate restTemplate;
 

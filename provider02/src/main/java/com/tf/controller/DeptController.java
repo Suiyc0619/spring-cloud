@@ -1,6 +1,5 @@
 package com.tf.controller;
 
-import com.netflix.discovery.DiscoveryClient;
 import com.tf.entity.Dept;
 import com.tf.service.DeptService;
 import org.springframework.beans.factory.annotation.Autowired;

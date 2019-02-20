@@ -10,14 +10,20 @@
         <module name="api" />
         <module name="consumer" />
         <module name="eureka" />
+        <module name="eureka02" />
+        <module name="eureka03" />
         <module name="provider" />
+        <module name="provider02" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api" target="1.8" />
       <module name="consumer" target="1.8" />
       <module name="eureka" target="1.8" />
+      <module name="eureka02" target="1.8" />
+      <module name="eureka03" target="1.8" />
       <module name="provider" target="1.8" />
+      <module name="provider02" target="1.8" />
       <module name="spring-cloud" target="1.8" />
     </bytecodeTargetLevel>
   </component>

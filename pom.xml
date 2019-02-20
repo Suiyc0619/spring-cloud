@@ -12,6 +12,9 @@
         <module>provider</module>
         <module>consumer</module>
         <module>eureka</module>
+        <module>eureka02</module>
+        <module>eureka03</module>
+        <module>provider02</module>
     </modules>
     <packaging>pom</packaging>
 
